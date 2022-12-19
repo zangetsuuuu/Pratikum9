@@ -6,7 +6,7 @@ Kelas: TI.22.A3
 
 ---
 
-## Pengertian Ekspesi
+## Pengertian Eksepsi
 
 Eksepsi *(exception)* merupakan suatu kesalahan *(error)* yang terjadi saat proses eksekusi program sedang berjalan, kesalahan ini akan menyebabkan program berakhir dengan tidak normal. Kesalahan-kesalahan ini dapat diidentifikasikan dengan nama tertentu dan direpresentasikan sebagai objek di dalam python.
 
@@ -29,7 +29,7 @@ ZeroDivisionError: division by zero
 # Eksepsi yang dibangkitkan adalah ZeroDivisionError yang berarti kita membagi suatu bilangan dengan angka nol
 ```
 
-## Fitur Ekspesi
+## Fitur Eksepsi
 
 Python menyediakan dua fitur yang sangat penting untuk menangani kesalahan program yang tidak terduga, yaitu:
 - *Exception Handling* adalah suatu mekanisme penanganan *flow* normal program karena terjadi eksepsi dengan melanjutkan *flow* ke *code block* lainnya.
